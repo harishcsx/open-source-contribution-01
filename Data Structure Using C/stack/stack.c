@@ -7,7 +7,7 @@ int stack[maxsize], top = -1;
 void push();
 void pop();
 void display();
-void peek();
+void peak();
 
 int main()
 {
